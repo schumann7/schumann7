@@ -1,12 +1,12 @@
 ## Sobre mim
 Estou estudando Informática para Internet no IFC - Câmpus Concórdia.<br>
 No momento estou aprendendo sobre React.js, Next.js e  TailwindCSS.<br>
-Entusiasta ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
+Entusiasta Bitcoin.
 
 ## About me
 I'm studying Computer Science for the Internet at IFC - Concórdia Campus.<br>
 I'm currently learning about React.js, Next.js and TailwindCSS.<br>
-![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white) enthusiast.
+Bitcoin enthusiast.
 
 ### Redes sociais | Social media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielschumann/)
