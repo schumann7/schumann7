@@ -1,11 +1,11 @@
 ## Sobre mim
-Estou estudando Informática para Internet no IFC - Câmpus Concórdia.<br>
+Estou estudando Informática para Internet no IFC.<br>
 No momento estou aprendendo sobre Flutter, React.js, Next.js e  TailwindCSS.<br>
 Entusiasta de Bitcoin.
 
 ## About me
-I'm studying Computer Science for the Internet at IFC - Concórdia Campus.<br>
-I'm currently learning about React.js, Next.js and TailwindCSS.<br>
+I'm studying Computer Science for the Internet at IFC.<br>
+I'm currently learning about Flutter, React.js, Next.js and TailwindCSS.<br>
 Bitcoin enthusiast.
 
 ### Redes sociais | Social media
@@ -14,12 +14,13 @@ Bitcoin enthusiast.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielschumannsc@gmail.com)
 
 ### Conhecimentos | Knowledge
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/schumann7/InvestTools.git)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/schumann7/links.git)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/schumann7/InvestTools.git)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/schumann7/quadro-kanban.git)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/schumann7/Jogo_de_Damas.git)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/schumann7/jogo-da-velha-dart.git)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Aprendendo | Learning
