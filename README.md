@@ -1,7 +1,7 @@
 ## Sobre mim
 Estou estudando Informática para Internet no IFC - Câmpus Concórdia.<br>
-No momento estou aprendendo sobre React.js, Next.js e  TailwindCSS.<br>
-Entusiasta Bitcoin.
+No momento estou aprendendo sobre Flutter, React.js, Next.js e  TailwindCSS.<br>
+Entusiasta de Bitcoin.
 
 ## About me
 I'm studying Computer Science for the Internet at IFC - Concórdia Campus.<br>
@@ -23,8 +23,8 @@ Bitcoin enthusiast.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Aprendendo | Learning
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
