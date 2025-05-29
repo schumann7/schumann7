@@ -3,7 +3,11 @@ I'm studying Computer Science for the Internet at IFC.<br>
 I'm currently learning about React.js, Next.js and TailwindCSS.<br>
 Bitcoin enthusiast.
 
-[![]([assets\aws-academy-graduate-aws-academy-cloud-foundations.png](https://drive.google.com/file/d/1tqsCQf5vykDfGjE6yaN-u-kq9O3uaSJx/view?usp=sharing))](https://www.credly.com/badges/02d173f0-a2c6-4f61-b4da-bbb5988a0f6a/public_url)
+<div style="display: inline_block"><br>
+  <a href="https://www.credly.com/badges/02d173f0-a2c6-4f61-b4da-bbb5988a0f6a/public_url" target="_blank">
+    <img align="center" alt="Badge de AWS" src="./assets/aws-academy-graduate-aws-academy-cloud-foundations.png" height="200" width="200">
+  </a>
+</div><br>
 
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielschumann/)
