@@ -1,6 +1,5 @@
 ## About me
 I'm studying Computer Science for the Internet at IFC.<br>
-I'm currently learning about React.js, Next.js and TailwindCSS.<br>
 Bitcoin enthusiast.
 
 <div style="display: inline_block"><br>
