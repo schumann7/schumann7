@@ -3,9 +3,10 @@ I'm studying Computer Science for the Internet at IFC.<br>
 Bitcoin enthusiast.
 
 <div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/02d173f0-a2c6-4f61-b4da-bbb5988a0f6a/public_url" target="_blank">
-    <img align="center" alt="Badge de AWS" src="./assets/aws-academy-graduate-aws-academy-cloud-foundations.png" height="200" width="200">
-  </a>
+<a href="https://www.credly.com/badges/02d173f0-a2c6-4f61-b4da-bbb5988a0f6a/public_url" target="_blank">
+    <img align="center" alt="Badge AWS Academy Cloud Foundations" src="./assets/aws-academy-graduate-cloud-foundations-training-badge.png" height="200" width="200"></a>
+<a href="https://www.credly.com/badges/a641a330-adf2-4728-b226-6c21072059a5/public_url" target="_blank">
+  <img align="center" alt="Badge AWS Academy Cloud Architecting" src="./assets/aws-academy-graduate-cloud-architecting-training-badge.png" height="200" width="200"></a>
 </div><br>
 
 ### Social media
